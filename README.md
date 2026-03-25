@@ -1,4 +1,4 @@
-# Deepfake Detection using XceptionNet
+# Deepfake Detection using CNNs & ViT
 
 This repository provides a PyTorch implementation for **deepfake image classification** using the **XceptionNet** architecture (via `timm`). The project is built on the **Celeb-DF v2 dataset**, which contains both real and synthetically generated (fake) celebrity face images.  
 
